@@ -1,8 +1,6 @@
-# Welcome to your CDK TypeScript project
+# AWS Web Sockets
+![ws_api_diag](https://github.com/user-attachments/assets/1035fe21-37ad-4194-a19d-5ef15cf24478)
 
-This is a blank project for CDK development with TypeScript.
-
-The `cdk.json` file tells the CDK Toolkit how to execute your app.
 
 ## Useful commands
 
