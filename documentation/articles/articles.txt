@@ -1,0 +1,6 @@
+
+cdk - websockets
+https://dev.to/aws-builders/building-websocket-apis-with-aws-api-gateway-and-cdk-1i27
+
+cdk sockets at scale
+https://dev.to/aws-builders/manage-webhooks-at-scale-with-aws-serverless-fof
